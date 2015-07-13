@@ -1,2 +1,2 @@
-# A website built for a friend who owns a guesthouse.
+# A website built for a friend that owns a guesthouse.
 
